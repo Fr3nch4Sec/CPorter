@@ -7,10 +7,10 @@ Port Scanner in C++
 
 Utilisation :
 
-  ./CPorter <IP> <startPort> <endPort> <mode>
+      ./CPorter <IP> <startPort> <endPort> <mode>
 
 Exemple :
 
-  ./CPorter 192.168.1.1 20 80 stealth
+      ./CPorter 192.168.1.1 20 80 stealth
 
-  ./CPorter 192.168.1.1 20 80 noisy
+      ./CPorter 192.168.1.1 20 80 noisy
