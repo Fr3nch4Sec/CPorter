@@ -14,6 +14,7 @@ Exemple :
 ./CPorter 192.168.1.1 20 80 stealth
 ./CPorter 192.168.1.1 20 80 noisy
 
+/*
 	 ____  ____            _            
   / ___||  _ \ ___  _ __| |_ ___ _ __ 
   \___ \| |_) / _ \| '__| __/ _ \ '__|
@@ -22,3 +23,4 @@ Exemple :
                                         
     CPorter - C++ Port Scanner
     By [Yoann C/French4Sec]
+*/
