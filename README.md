@@ -1,5 +1,5 @@
 # CPorter
-Port Scanner in C++
+Scanner de Ports en C++
 
 
     Mode furtif ("stealth") : Ajoute des délais aléatoires pour rendre le scan plus discret.
@@ -9,7 +9,7 @@ Utilisation :
 
       ./CPorter <IP> <startPort> <endPort> <mode>
 
-Exemple :
+Exemples :
 
       ./CPorter 192.168.1.1 20 80 stealth
 
